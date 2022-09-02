@@ -31,7 +31,7 @@
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-hinata](https://wa.me/6281575886399)
+* Info Lebih Lanjut, Chat [owner-hinata](https://wa.me/6282115835643)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -68,11 +68,12 @@ npm start
 </p>
 
 ## Donate
-- [Dana](https://wa.me/6281575886399?text=Bang+mau+donasi)
-- [Gopay](https://wa.me/6281575886399?text=Bang+mau+donasi)
+- [Saweria](https://saweria.co/Riy20)
 
 # Thanks to
-- Dika Ardnt
-- Fatih Arridho
-- Yoga
-- Riy
+- Irfan H.
+- Fadly ID
+- Yog Ganz
+- Faiz Frdnd
+- Arthur
+- Rimo 04
